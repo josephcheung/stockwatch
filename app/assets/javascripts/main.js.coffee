@@ -1,1 +1,2 @@
-app = angular.module "StockWatch", ['ngResource']
+@app = angular.module "StockWatch", ['ngResource']
+
